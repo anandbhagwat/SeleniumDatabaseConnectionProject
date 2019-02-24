@@ -23,7 +23,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/anand/Downloads/mysql-connector.jar/mysql-connector.jar"/>
-	<classpathentry kind="lib" path="C:/Users/anand/Downloads/ojdbc6.jar/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anbhagwat/Downloads/mysql-connector.jar/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anbhagwat/Downloads/ojdbc6.jar/ojdbc6.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
